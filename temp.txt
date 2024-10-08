@@ -1,5 +1,1 @@
-new branch modify
-hello git!
-master modify
-new branch modify again
-modification from GitHub
+branch clear
